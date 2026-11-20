@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: Projectile Tracker
+## IconTexture: Interface\AddOns\ProjectileTracker\ProjectileTrackerIcon.png
+## Notes: Shows remaining arrows or bullets in the ammo slot.
+## Author: Marco van Blanco
+## Version: 1.2.0
+## SavedVariables: ProjectileTrackerDB
+
+ProjectileTracker.lua
